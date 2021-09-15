@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PE9SVoU6HoFtk1qdFGWpqz13Ssq8p3JOBMHPh/iDOGHsAZCLwqEVg1kruPeNzYFk16hvNqYoSOBjRElpsq7YYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Freedom.Khanyile\\source\\repos\\bet-ecommerce-software\\Api\\BET.Tests\\BET.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Freedom.Khanyile\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\Freedom.Khanyile\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\Freedom.Khanyile\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

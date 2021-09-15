@@ -1,0 +1,8 @@
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Tests\bin\Debug\netcoreapp3.1\BET.Tests.deps.json
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Tests\bin\Debug\netcoreapp3.1\BET.Tests.dll
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Tests\bin\Debug\netcoreapp3.1\BET.Tests.pdb
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Tests\obj\Debug\netcoreapp3.1\BET.Tests.AssemblyInfoInputs.cache
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Tests\obj\Debug\netcoreapp3.1\BET.Tests.AssemblyInfo.cs
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Tests\obj\Debug\netcoreapp3.1\BET.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Tests\obj\Debug\netcoreapp3.1\BET.Tests.dll
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Tests\obj\Debug\netcoreapp3.1\BET.Tests.pdb

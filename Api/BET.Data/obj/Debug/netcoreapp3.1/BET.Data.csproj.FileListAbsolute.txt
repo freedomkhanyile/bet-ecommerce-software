@@ -1,0 +1,11 @@
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Data\bin\Debug\netcoreapp3.1\BET.Data.deps.json
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Data\bin\Debug\netcoreapp3.1\BET.Data.dll
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Data\bin\Debug\netcoreapp3.1\BET.Data.pdb
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Data\obj\Debug\netcoreapp3.1\BET.Data.AssemblyInfoInputs.cache
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Data\obj\Debug\netcoreapp3.1\BET.Data.AssemblyInfo.cs
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Data\obj\Debug\netcoreapp3.1\BET.Data.csproj.CoreCompileInputs.cache
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Data\obj\Debug\netcoreapp3.1\BET.Data.dll
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Data\obj\Debug\netcoreapp3.1\BET.Data.pdb
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Data\bin\Debug\netcoreapp3.1\BET.Data.runtimeconfig.json
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Data\bin\Debug\netcoreapp3.1\BET.Data.runtimeconfig.dev.json
+C:\Users\Freedom.Khanyile\source\repos\bet-ecommerce-software\Api\BET.Data\obj\Debug\netcoreapp3.1\BET.Data.genruntimeconfig.cache
